@@ -7,7 +7,7 @@
 
 
 ## Description
-This is my portfolio website which consists of all the work i have undertaken since i started codding. It also consist of my CV and links to my various accounts such as github and linkedin.
+This is my portfolio website which consists of all the work i have undertaken since i started codding. It also consist links to my various accounts such as github and linkedin.
 
 
 
