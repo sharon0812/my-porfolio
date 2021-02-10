@@ -84,9 +84,7 @@ a:hover {
   background-position: center center;
 }
 
-/* .overlay-mf {
-  background-color: #0078ff;
-} */
+
 
 .overlay-mf {
   position: absolute;
@@ -242,7 +240,7 @@ a:hover {
 
 .list-ico {
   line-height: 2;
-  color: black;
+  color: blue;
   font-weight: 600;
 }
 
