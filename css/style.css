@@ -238,6 +238,10 @@ a:hover {
   margin-bottom: 0;
 }
 
+.logo1 {
+  width: 155px;
+}
+
 .list-ico {
   line-height: 2;
   color: blue;
