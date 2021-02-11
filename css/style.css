@@ -77,7 +77,7 @@ a:hover {
 }
 
 .bg-image {
-  background-image: url("/img/ideas-quote-image.jpg");
+  background-image: url("./img/ideas-quote-image.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
